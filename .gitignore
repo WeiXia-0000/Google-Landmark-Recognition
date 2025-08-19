@@ -1,0 +1,38 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.pkl
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Ignore the entire virtual environment folder
+/.venv/
+
+data/small_data/*
+models/baselines/saved_models/efficient_net_b7_best_model.pth
+

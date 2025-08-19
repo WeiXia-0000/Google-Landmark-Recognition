@@ -1,0 +1,38 @@
+{
+  "vit_base_224_ep=30_best_model": {
+    "Test Loss": 2.173037410430286,
+    "Test Accuracy": 0.746938775510204
+  },
+  "swin_ep=30_best_model": {
+    "Test Loss": 1.2679022165096325,
+    "Test Accuracy": 0.8136054421768707
+  },
+  "SquuzeNet_base_ep=25_best_model": {
+    "Test Loss": 2.0865729308646657,
+    "Test Accuracy": 0.5727891156462585
+  },
+  "resnet-50_best_model": {
+    "Test Loss": 1.3885560052965402,
+    "Test Accuracy": 0.6789115646258503
+  },
+  "resnet-18_best_model": {
+    "Test Loss": 1.7178236983142197,
+    "Test Accuracy": 0.6693877551020407
+  },
+  "efficient_net_b7_best_model": {
+    "Test Loss": 0.5629050697321477,
+    "Test Accuracy": 0.886047619047619
+  },
+  "efficient_net_b0_best_model": {
+    "Test Loss": 0.930370284649341,
+    "Test Accuracy": 0.819047619047619
+  },
+  "mobileNetV2_base_ep=25_best_model": {
+    "Test Loss": 1.5786286598962287,
+    "Test Accuracy": 0.6952380952380952
+  },
+  "DenseNet_base_ep=23_best_model": {
+    "Test Loss": 1.1754250830930213,
+    "Test Accuracy": 0.7496598639455782
+  }
+}

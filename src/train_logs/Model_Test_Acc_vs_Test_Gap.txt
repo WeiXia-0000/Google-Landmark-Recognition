@@ -1,0 +1,38 @@
+{
+  "vit_base_224_ep=30_best_model": {
+    "Test Gap": 0.8136548913043481,
+    "Test Accuracy": 0.846938775510204
+  },
+  "mobileNetV2_base_ep=25_best_model": {
+    "Test Gap": 0.6674592391304349,
+    "Test Accuracy": 0.6952380952380952
+  },
+  "swin_ep=30_best_model": {
+    "Test Gap": 0.7935,
+    "Test Accuracy": 0.8136054421768707
+  },
+  "SquezeNet_base_ep=25_best_model": {
+    "Test Gap": 0.604166666666667,
+    "Test Accuracy": 0.5727891156462585
+  },
+  "resnet-50_best_model": {
+    "Test Gap": 0.7496784420289856,
+    "Test Accuracy": 0.7429931972789115
+  },
+  "resnet-18_best_model": {
+    "Test Gap": 0.6423233695652176,
+    "Test Accuracy": 0.6693877551020407
+  },
+  "efficient_net_b7_best_model": {
+    "Test Gap": 0.8196331521739131,
+    "Test Accuracy": 0.886047619047619
+  },
+  "efficient_net_b0_best_model": {
+    "Test Gap": 0.7980072463768116,
+    "Test Accuracy": 0.819047619047619
+  },
+  "DenseNet_base_ep=23_best_model": {
+    "Test Gap": 0.7076539855072465,
+    "Test Accuracy": 0.7496598639455782
+  }
+}
